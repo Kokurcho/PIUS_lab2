@@ -1,10 +1,10 @@
 # PHP Lab 2
-## Technologies:
+## Technologies
 - PHP
 - Laravel Framework
 - Postgres
 - Custom console commands
-## Task:
+## Task
 To implement two pages and a console command.
 - Product page uXXXXXX-lab2.local/products/{code}. The list should show all the fields of the product including the image as <img>.
 - Catalog category page uXXXXXX-lab2.local/category/{code} If the category is not active, the application should give a 404
