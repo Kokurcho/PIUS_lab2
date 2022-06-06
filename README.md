@@ -6,7 +6,7 @@
 - Custom console commands
 ## Task
 To implement two pages and a console command
--Product page uXXXXXX-lab2.local/products/{code}
+- Product page uXXXXXX-lab2.local/products/{code}
 In the list, display all the product fields including the image as <img>
 - Catalog category page uXXXXXX-lab2.local/category/{code}
 If the category is not active, then the application should return a 404
